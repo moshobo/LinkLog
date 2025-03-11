@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Board selects West Seattle Preferred Alternative",
+        "publish_date": 1729796400,
+        "description": "The Sound Transit Board selected the route and station locations for the West Seattle Link Extension. This action authorizes the project to move forward into the final design phase. Construction is expected to begin in 2027.",
+        "image": "../data/images/no-image.png",
+        "source_name": "Sound Transit",
+        "source_link": "https://www.soundtransit.org/get-to-know-us/news-events/news-releases/sound-transit-board-selects-final-west-seattle-link",
+        "tags": ["3 Line", "WSLE", "update"]
+    },
+    {
+        "title": "West Seattle Final EIS Published",
+        "publish_date": 1726858800,
+        "description": "The final environmental impact survey for the West Seattle Link Extension (WSLE) was published. The Final EIS includes updates based on continued design and comments received on the West Seattle and Ballard Link Extensions (WSBLE) Draft EIS and responds to substantive public, agency, and Tribal comments (project-wide comments and comments specific to WSLE) submitted during the WSBLE Draft EIS comment period.",
+        "image": "../data/images/no-image.png",
+        "source_name": "Sound Transit",
+        "source_link": "https://content.govdelivery.com/accounts/WASOUND/bulletins/3b658e0",
+        "tags": ["3 Line", "WSLE", "update"]
+    }
+
+]
