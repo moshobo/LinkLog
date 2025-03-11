@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LinkLog</title>
+    <link rel="stylesheet" href="static/css/styles.css">
+    <link rel="stylesheet" href="static/css/colors.css">
+    <link rel="icon" href="data/images/favicon.png" type="image/png">
+</head>
+<body>
+    <header>
+        <div>
+            <h1 onclick="window.location.href='./index.html'">LinkLog</h1>
+        </div>
+        <div class="menubar">
+        </div>
+    </header>
+    <main>
+        <p>Welcome to LinkLog. Track progress on Seattle’s Link Light Rail network.</p>
+        <div class="button-container">
+            <button onclick="window.location.href='/lines/1-line.html'">1 Line</button>
+            <button onclick="window.location.href='/lines/2-line.html'">2 Line</button>
+            <button onclick="window.location.href='/lines/3-line.html'">3 Line</button>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2025 LinkLog</p>
+    </footer>
+
+    <script>
+        /* When the user clicks on the button, 
+        toggle between hiding and showing the dropdown content */
+        function toggleDropdown() {
+          document.getElementById("myDropdown").classList.toggle("show");
+        }
+        
+        // Close the dropdown if the user clicks outside of it
+        window.onclick = function(e) {
+          if (!e.target.matches('.dropbtn')) {
+          var myDropdown = document.getElementById("myDropdown");
+            if (myDropdown.classList.contains('show')) {
+              myDropdown.classList.remove('show');
+            }
+          }
+        }
+    </script>
+</body>
+</html>

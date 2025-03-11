@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LinkLog</title>
+    <link rel="stylesheet" href="../static/css/styles.css">
+    <link rel="stylesheet" href="../static/css/colors.css">
+    <link rel="icon" href="data/images/favicon.png" type="image/png">
+</head>
+<body>
+    <header>
+        <div>
+            <h1 id="linklog-title" onclick="window.location.href='../index.html'">LinkLog</h1>
+        </div>
+        <div class="menubar">
+            <button onclick="window.location.href='/lines/1-line.html'">1 Line</button>
+            <button onclick="window.location.href='/lines/2-line.html'">2 Line</button>
+            <button onclick="window.location.href='/lines/3-line.html'">3 Line</button>
+        </div>
+    </header>
+    <main>
+        <div>
+            <h1>2 Line</h1>
+            <p>Downtown Redmond to South Bellevue
+            </p>
+        </div>
+        <div>
+            <h2>Construction Updates</h2>
+            <div class="updates-timeline">
+                <div class="updates-container" id="updates"></div>
+                <script src="../scripts/populate-updates.js" data-url="../data/2-line.json"></script>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2025 LinkLog</p>
+    </footer>
+
+    <script>
+        /* When the user clicks on the button, 
+        toggle between hiding and showing the dropdown content */
+        function toggleDropdown() {
+          document.getElementById("myDropdown").classList.toggle("show");
+        }
+        
+        // Close the dropdown if the user clicks outside of it
+        window.onclick = function(e) {
+          if (!e.target.matches('.dropbtn')) {
+          var myDropdown = document.getElementById("myDropdown");
+            if (myDropdown.classList.contains('show')) {
+              myDropdown.classList.remove('show');
+            }
+          }
+        }
+    </script>
+</body>
+</html>
