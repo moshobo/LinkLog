@@ -98,7 +98,6 @@ main {
 .updates-container {
     display: flex;
     flex-direction: column;
-    max-width: 800px;
     min-width: 200px;
 }
 .update {
@@ -112,6 +111,7 @@ main {
     flex-direction: column;
     align-items: center;
     width: 100%;
+    max-width: 800px;
 }
 .updates-timeline::before {
     content: "";

@@ -1,12 +1,22 @@
 [
+    
     {
         "title": "Geotechnical work at Blanchard St and Westlake Ave",
-        "publish_date": 1741590661,
-        "description": "A notice shared to residents and businesses in Seattle's South Lake Union (SLU) neighborhood states that beginning March 10th, 2025, Sound Transit plans to conduct a geotechnical boring for soil analysis. The work is part of the planning phase for the Ballard Link Extension (BLE) project.<br><br>The location of the analysis will be conducted right across from the Whole Foods in SLU, nearby the highly debated future Denny station.",
-        "image": "../data/images/no-image.png",
+        "publish_date": 1741633200,
+        "description": "A notice shared to residents and businesses in Seattle's South Lake Union (SLU) neighborhood states that beginning March 10th, 2025, Sound Transit plans to conduct a geotechnical boring for soil analysis. The work is part of the planning phase for the Ballard Link Extension (BLE) project.<br><br>The location of the analysis will be conducted right across from the Whole Foods in SLU, nearby the highly debated future Denny station. The contractor spent about a week drilling right next to the current streetcar stop. Boxes at the work site could we seen with 'WSBLE' marked on them, indicating this work was for the West Seattle Ballard Link Extension.",
+        "image": "../data/images/1Line_BallardLink_DennyStation.jpg",
         "source_name": "Sound Transit",
         "source_link": "https://s3.amazonaws.com/assets.activebuilding.com/property-6009/Messages/e410afd8-d34f-4198-a9d1-4a479ad02d27/road%20closure.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ2YES32LDEDELI4P%2F20250308%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250308T191639Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3000&X-Amz-Signature=bccb474da95d038b4717577e1f362dc4d3b16505efd62493fdbba2576419a4fb",
         "tags": ["1 Line", "BLE", "update"]
+    },
+    {
+        "title": "HTNB Reports on 1 Line resiliency failures",
+        "publish_date": 1741291200,
+        "description": "HTNB in Bellevue recently delivered a resiliency assessment report to Sound Transit. The 117-page report details recent failures that have plagued the system with delays. Additionally, there are several recommendations made about how to improve running in the future. Click the source link below to see the full PDF.",
+        "image": "../data/images/no-image.png",
+        "source_name": "HNTB via Sound Transit",
+        "source_link": "../data/files/HNTB-Sound_Transit_Resiliency_Assessment_Report_FINAL_SUBMISSION_3_11_25_Distribution.2025.pdf",
+        "tags": ["1 Line", "news"]
     },
     {
         "title": "Train spotted at Federal Way Station",
