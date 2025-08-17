@@ -1,5 +1,50 @@
 [
     {
+        "title": "Planned East Link Testing",
+        "publish_date": 1755975600,
+        "description": "Sound Transit announced that 1 Line Shuttle buses will be replacing the 1 Line between Westlake Station and SODO Station on Saturday, August 23 from start of service to 1 p.m., due to East Link testing.",
+        "image": "../data/images/no-image.png",
+        "source_name": "Sound Transit Alerts",
+        "source_link": "https://www.soundtransit.org/ride-with-us/service-alerts/1-line-shuttle-buses-will-be-replacing-1-line-between-westlake-station",
+        "tags": ["2 Line", "ESLE"]
+    },
+    {
+        "title": "Planned Test Operations",
+        "publish_date": 1755889200,
+        "description": "Sound Transit announced that 1 Line trains will run test operations during regular service on Friday, August 22 from 5 AM to 9 AM. Please check train head signs before boarding.",
+        "image": "../data/images/no-image.png",
+        "source_name": "Sound Transit Alerts",
+        "source_link": "https://www.soundtransit.org/ride-with-us/service-alerts/1-line-trains-will-run-test-operations-during-regular-service-friday-0",
+        "tags": ["2 Line", "ESLE"]
+    },
+    {
+        "title": "4 minute headway testing",
+        "publish_date": 1749841200,
+        "description": "Sound Transit conducted headway testing between SODO and Lynnwood stations. This testing is to ensure that trains can run at 4 minute intervals, which is the planned headway for the core between Lynnwood and CID once the 2 Line opens. Sound Transit ran additional single-car trains from the start of service until 9:00 am.",
+        "image": "../data/images/2Line_4MinHeadwayTest.jpg",
+        "source_name": "Link Log YouTube",
+        "source_link": "",
+        "tags": ["2 Line", "ESLE"]
+    },
+    {
+        "title": "Dead Car Tow Across Lake Washington",
+        "publish_date": 1747854000,
+        "description": "Sound Transit conducted a dead car tow test across Lake Washington. A tow truck pulled a single car across the bridge to check for clearance and other issues on the new line. The test started on Mercer Island and headed westbound, switching directions at Judkins Park Station.",
+        "image": "../data/images/2Line_DeadCarTowTest.jpg",
+        "source_name": "Link Log YouTube",
+        "source_link": "https://youtu.be/V3rPaYDnbhk?si=lbI2I-dAu96DPMzk",
+        "tags": ["2 Line", "ESLE"]
+    },
+    {
+        "title": "Downtown Redmond Service Begins",
+        "publish_date": 1746903600,
+        "description": "Downtown Redomond Link Extension is now open for service. The line adds two new stations at Redmond Downtown and Marymoor Village. This is Sound Transit’s fourth opening in the past year-and-a-half and the first ST3 project to open.",
+        "image": "../data/images/DRLE_VideoThumbnail_small.jpg",
+        "source_name": "Sound Transit",
+        "source_link": "https://www.soundtransit.org/get-to-know-us/news-events/news-releases/light-rail-to-downtown-redmond-opens",
+        "tags": ["2 Line", "DRLE"]
+    },
+    {
         "title": "Car 306 testing at Judkins Park Station",
         "publish_date": 1741806000,
         "description": "Per @endricus.bsky.social on Bluesky, Car #306 was testing on the segment between Judkins Park Station and the Chinatown-International District station. This follows recent work by Sound Transit over previous weekend to tie-in the 1 Line and the 2 Line before the CID station. Seeing this train in action on that segment of rail suggest that the major electrical work is complete and ready for final testing.",
