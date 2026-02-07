@@ -1,5 +1,32 @@
 [
     {
+        "title": "Crosslake Connection opens March 28, 2026",
+        "publish_date": 1769198400,
+        "description": "Sound Transit announced today that the Link 2 Line Crosslake Conneciton will open for passenger service on March 28, 2026.<br><br>The extension will expand the 2 Line to 35 miles and includes two new stations at Mercer Island and Judkins Park. As the 2 Line will run from CID to Lynnwood alongside the 1 Line, the Crosslake Connection will allow for more frequent service on the core segment between Lynnwood and CID. Trains will run every 4 minutes during peak hours.<br><br>Additionally, simulated service is expected to being in February 2026. Passengers are expected to be able to ride the 2 Line between CID and Lynnwood during this time.",
+        "image": "../data/images/no-image.png",
+        "source_name": "Sound Transit Blog",
+        "source_link": "https://www.soundtransit.org/blog/platform/crosslake-update-mark-your-calendar-opening-day",
+        "tags": ["2 Line", "ESLE"]
+    },
+    {
+        "title": "Crosslake Connection begins operator certification",
+        "publish_date": 1766246400,
+        "description": "Sound Transit announced that operator certification for the Crosslake Connection will begin in late December 2025.",
+        "image": "../data/images/2Line_CLC_OpCertAlert.png",
+        "source_name": "Sound Transit Alerts",
+        "source_link": "https://www.soundtransit.org/ride-with-us/service-alerts/starting-december-22-sound-transit-will-be-conducting-operator",
+        "tags": ["2 Line", "ESLE"]
+    },
+    {
+        "title": "Live Wire testing on the Crosslake Connection",
+        "publish_date": 1757394000,
+        "description": "In anticipation of opening the Crosslake Connection in 2026, Sound Transit conducted live wire testing across the I-90 floating bridge segment.",
+        "image": "../data/images/no-image.png",
+        "source_name": "Link Log YouTube",
+        "source_link": "https://www.youtube.com/watch?v=IP-vQmDTuNs",
+        "tags": ["2 Line", "ESLE"]
+    },
+    {
         "title": "Planned East Link Testing",
         "publish_date": 1755975600,
         "description": "Sound Transit announced that 1 Line Shuttle buses will be replacing the 1 Line between Westlake Station and SODO Station on Saturday, August 23 from start of service to 1 p.m., due to East Link testing.",
